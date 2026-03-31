@@ -250,7 +250,30 @@ sequenceDiagram
 ---
 ## 📸 Screenshots
 
-*(Add screenshots here later for better presentation)*
+<p align="center">
+  <img src="screenshots/home.png" width="45%" />
+  <img src="screenshots/matches.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/mypredictions.png" width="45%" />
+  <img src="screenshots/leaderboard.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/player.png" width="45%" />
+  <img src="screenshots/teams.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/login.png" width="45%" />
+  <img src="screenshots/register.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/adminpanel.png" width="45%" />
+  <img src="screenshots/teamsapi.png" width="45%" />
+</p>
 
 ---
 

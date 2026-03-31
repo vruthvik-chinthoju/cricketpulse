@@ -1,7 +1,8 @@
-## CricketPulse
+# CricketPulse
+[badges here]
 
-[![Live Demo](https://vruthvik-chinthoju.github.io/cricketpulse-frontend/)
-[![Backend API](https://cricketpulse-backend.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://vruthvik-chinthoju.github.io/cricketpulse-frontend/)
+[![Backend API](https://img.shields.io/badge/API-Backend-blue?style=for-the-badge)](https://cricketpulse-backend.onrender.com/)
 
 **CricketPulse is an AI-powered cricket analytics platform that delivers intelligent match predictions, real-time insights, and an interactive user experience.**
 
@@ -11,7 +12,6 @@
 ![Django](https://img.shields.io/badge/Backend-Django-green)
 ![DRF](https://img.shields.io/badge/API-Django%20REST%20Framework-red)
 ![Render](https://img.shields.io/badge/Backend%20Deploy-Render-orange)
-![Vercel](https://img.shields.io/badge/Frontend%20Deploy-Vercel-black)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
@@ -164,7 +164,7 @@ https://your-backend-url.onrender.com/api/
 ```
 
 ---
-# 🔗 API Endpoints
+## 🔗 API Endpoints
 
 ## Matches
 
@@ -230,7 +230,7 @@ B --> I[Display Results]
 ---
 
 ---
-# 🔄 API Communication Flow
+## 🔄 API Communication Flow
 
 ```mermaid
 sequenceDiagram
@@ -293,56 +293,39 @@ Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
 
 ---
-# 🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 - 📊 **Advanced Data Visualization**
-  - Add interactive charts like Pie Charts, Bar Graphs, and Line Charts  
-  - Visualize player performance, team stats, and match trends  
-  - Use libraries like Chart.js / Recharts for dynamic dashboards  
+  - Add Pie Charts, Bar Graphs, and Line Charts  
+  - Visualize player stats, team performance, and match trends  
 
-- 🤖 **Advanced AI/ML Prediction Model**
-  - Train a machine learning model on historical IPL datasets  
-  - Improve prediction accuracy using features like:
-    - Player form  
-    - Team combinations  
-    - Venue statistics  
-  - Integrate models like Logistic Regression, Random Forest, or Neural Networks  
+- 🤖 **AI/ML Prediction Model**
+  - Train models on historical IPL datasets  
+  - Improve accuracy using player form, team combinations, and venue stats  
+  - Explore models like Random Forest and Neural Networks  
 
-- 📈 **Real-Time Analytics Dashboard**
-  - Live win probability graphs during matches  
-  - Dynamic score projections  
-  - Run rate and performance trends  
+- 📈 **Real-Time Analytics**
+  - Live win probability graphs  
+  - Dynamic score projections and run-rate tracking  
 
 - 🧠 **Enhanced AI Chatbot**
-  - Context-aware cricket queries  
-  - Match insights and player comparisons  
-  - Integration with LLM-based responses  
+  - Context-aware cricket insights  
+  - Player comparisons and match analysis  
 
-- 🏆 **User Prediction System Upgrade**
-  - Gamification with points, badges, and rankings  
-  - Global leaderboard system  
-  - Prediction history tracking  
+- 🏆 **Gamified Prediction System**
+  - Points, badges, and global leaderboard  
+  - User prediction history  
 
-- 📱 **Mobile Optimization**
+- 📱 **Mobile & Performance Optimization**
   - Fully responsive UI  
-  - Progressive Web App (PWA) support  
-
-- ⚡ **Performance Optimization**
-  - Faster API responses with caching  
-  - Lazy loading and code splitting  
+  - Faster APIs with caching and lazy loading  
 
 - 🌐 **Multi-League Support**
-  - Extend beyond IPL to:
-    - International matches  
-    - T20 leagues (BBL, PSL, etc.)  
+  - Extend beyond IPL (BBL, PSL, international matches)  
 
-- 🔐 **Enhanced Security**
-  - JWT-based authentication  
-  - Role-based access control  
-
-- 📊 **Custom User Dashboard**
-  - Personalized stats  
-  - Favorite teams and players tracking  
+- 🔐 **Security & Personalization**
+  - JWT authentication  
+  - Personalized dashboards and user stats  
 ---
 
 ## 👨‍💻 Author

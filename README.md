@@ -251,13 +251,13 @@ sequenceDiagram
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="45%" />
-  <img src="screenshots/matches.png" width="45%" />
+  <img src="screenshots/login.png" width="45%" />
+  <img src="screenshots/register.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/mypredictions.png" width="45%" />
-  <img src="screenshots/leaderboard.png" width="45%" />
+  <img src="screenshots/home.png" width="45%" />
+  <img src="screenshots/matches.png" width="45%" />
 </p>
 
 <p align="center">
@@ -265,9 +265,10 @@ sequenceDiagram
   <img src="screenshots/teams.png" width="45%" />
 </p>
 
+
 <p align="center">
-  <img src="screenshots/login.png" width="45%" />
-  <img src="screenshots/register.png" width="45%" />
+  <img src="screenshots/mypredictions.png" width="45%" />
+  <img src="screenshots/leaderboard.png" width="45%" />
 </p>
 
 <p align="center">
@@ -351,11 +352,20 @@ Feel free to fork the repo and submit a pull request.
   - Personalized dashboards and user stats  
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Ruthvik Chintu**
+- Name: Ruthvik Chintu-
+- GitHub: https://github.com/vruthvik-chinthoju
+- LinkedIn: https://www.linkedin.com/in/chinthoju-vruthvik-83754b320/
 
-* GitHub: https://github.com/vruthvik-chinthoju
+Full-stack Django developer building modern web applications with AI and cloud integrations.
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Django](https://img.shields.io/badge/Django-5.2-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Deploy](https://img.shields.io/badge/Deployed-Render-purple)
 
 ---
 

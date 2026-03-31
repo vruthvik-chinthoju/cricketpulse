@@ -276,6 +276,10 @@ sequenceDiagram
   <img src="screenshots/teamsapi.png" width="45%" />
 </p>
 
+<p align="center">
+  <img src="screenshots/cricketpulseai.png" width="45%" />
+</p>
+
 ---
 
 ## 🌐 Deployment Guide

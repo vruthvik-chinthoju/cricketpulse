@@ -1,7 +1,7 @@
 # CricketPulse
 [badges here]
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://vruthvik-chinthoju.github.io/cricketpulse-frontend/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://vruthvik-chinthoju.github.io/cricketpulse-frontend-v2/)
 [![Backend API](https://img.shields.io/badge/API-Backend-blue?style=for-the-badge)](https://cricketpulse-backend.onrender.com/)
 
 **CricketPulse is an AI-powered cricket analytics platform that delivers intelligent match predictions, real-time insights, and an interactive user experience.**
@@ -19,7 +19,7 @@
 ## Live Demo
 
 **Frontend**  
-https://vruthvik-chinthoju.github.io/cricketpulse-frontend/
+https://vruthvik-chinthoju.github.io/cricketpulse-frontend-v2/
 
 **Backend API**  
 https://cricketpulse-backend.onrender.com/
